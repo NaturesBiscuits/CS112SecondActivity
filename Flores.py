@@ -4,10 +4,10 @@ id = input("ID number: ")
 course = input("Course: ")
 section = input("Section: ")
 
-first = float(input("Enter 1st semester grade: "))
-second = float(input("Enter 2nd semester grade: "))
-third = float(input("Enter 3rd semester grade: "))
-fourth = float(input("Enter 4th semester grade: "))
+first = float(input("Enter 1st quarter: "))
+second = float(input("Enter 2nd quarter: "))
+third = float(input("Enter 3rd quarter: "))
+fourth = float(input("Enter 4th quarter: "))
 
 average = (first + second + third + fourth) / 4
 
