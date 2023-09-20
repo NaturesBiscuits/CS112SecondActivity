@@ -1,4 +1,3 @@
-
 name = input("Enter Name: ")
 id = input("ID number: ")
 course = input("Course: ")
